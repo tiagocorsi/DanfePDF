@@ -1,0 +1,129 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5.2": {
+      "DanfeSharp/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/DanfeSharp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DanfeSharp.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5.2/win": {
+      "DanfeSharp/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/DanfeSharp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DanfeSharp.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5.2/win-arm64": {
+      "DanfeSharp/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/DanfeSharp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DanfeSharp.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5.2/win-x64": {
+      "DanfeSharp/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/DanfeSharp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DanfeSharp.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5.2/win-x86": {
+      "DanfeSharp/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/DanfeSharp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DanfeSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DanfeSharp/1.0.0": {
+      "type": "project",
+      "path": "../DanfeSharp/DanfeSharp/DanfeSharp.csproj",
+      "msbuildProject": "../DanfeSharp/DanfeSharp/DanfeSharp.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.2": [
+      "DanfeSharp >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\tiago\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\tiago\\OneDrive\\dados-trabalho\\LC Bittar\\Source\\UAT\\DanfeSharp.Test\\DanfeSharp.Test.csproj",
+      "projectName": "DanfeSharp.Test",
+      "projectPath": "C:\\Users\\tiago\\OneDrive\\dados-trabalho\\LC Bittar\\Source\\UAT\\DanfeSharp.Test\\DanfeSharp.Test.csproj",
+      "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tiago\\OneDrive\\dados-trabalho\\LC Bittar\\Source\\UAT\\DanfeSharp.Test\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net452"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net452": {
+          "projectReferences": {
+            "C:\\Users\\tiago\\OneDrive\\dados-trabalho\\LC Bittar\\Source\\UAT\\DanfeSharp\\DanfeSharp\\DanfeSharp.csproj": {
+              "projectPath": "C:\\Users\\tiago\\OneDrive\\dados-trabalho\\LC Bittar\\Source\\UAT\\DanfeSharp\\DanfeSharp\\DanfeSharp.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net452": {}
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-arm64": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

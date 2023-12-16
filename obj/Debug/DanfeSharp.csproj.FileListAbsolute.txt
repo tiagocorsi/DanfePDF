@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfeSharp\DanfeSharp\bin\Debug\DanfeSharp.dll
+C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfeSharp\DanfeSharp\bin\Debug\DanfeSharp.pdb
+C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfeSharp\DanfeSharp\bin\Debug\PDFClown.dll
+C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfeSharp\DanfeSharp\obj\Debug\DanfeSharp.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfeSharp\DanfeSharp\obj\Debug\DanfeSharp.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfeSharp\DanfeSharp\obj\Debug\DanfeSharp.csproj.CopyComplete
+C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfeSharp\DanfeSharp\obj\Debug\DanfeSharp.dll
+C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfeSharp\DanfeSharp\obj\Debug\DanfeSharp.pdb
+C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfePDF\bin\Debug\DanfeSharp.dll
+C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfePDF\bin\Debug\DanfeSharp.pdb
+C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfePDF\obj\Debug\DanfeSharp.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfePDF\obj\Debug\DanfeSharp.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfePDF\obj\Debug\DanfeSharp.csproj.CopyComplete
+C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfePDF\obj\Debug\DanfeSharp.dll
+C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfePDF\obj\Debug\DanfeSharp.pdb
