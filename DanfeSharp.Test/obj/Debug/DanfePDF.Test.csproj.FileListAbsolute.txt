@@ -5,8 +5,7 @@ C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfePDF\DanfeSharp.
 C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfePDF\DanfeSharp.Test\bin\Debug\PDFClown.dll
 C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfePDF\DanfeSharp.Test\bin\Debug\DanfePDF.pdb
 C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfePDF\DanfeSharp.Test\obj\Debug\DanfePDF.Test.csproj.AssemblyReference.cache
-C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfePDF\DanfeSharp.Test\obj\Debug\DanfePDF.Test.csproj.SuggestedBindingRedirects.cache
 C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfePDF\DanfeSharp.Test\obj\Debug\DanfePDF.Test.csproj.CoreCompileInputs.cache
-C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfePDF\DanfeSharp.Test\obj\Debug\DanfePDF.Test.csproj.CopyComplete
+C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfePDF\DanfeSharp.Test\obj\Debug\DanfePDF.6F0FBC62.Up2Date
 C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfePDF\DanfeSharp.Test\obj\Debug\DanfePDF.Test.exe
 C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfePDF\DanfeSharp.Test\obj\Debug\DanfePDF.Test.pdb

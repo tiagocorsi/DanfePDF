@@ -2,6 +2,6 @@ C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfePDF\bin\Debug\D
 C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfePDF\bin\Debug\DanfePDF.pdb
 C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfePDF\obj\Debug\DanfePDF.csproj.AssemblyReference.cache
 C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfePDF\obj\Debug\DanfePDF.csproj.CoreCompileInputs.cache
-C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfePDF\obj\Debug\DanfePDF.csproj.CopyComplete
+C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfePDF\obj\Debug\DanfePDF.csproj.Up2Date
 C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfePDF\obj\Debug\DanfePDF.dll
 C:\Users\tiago\OneDrive\dados-trabalho\LC Bittar\Source\UAT\DanfePDF\obj\Debug\DanfePDF.pdb
